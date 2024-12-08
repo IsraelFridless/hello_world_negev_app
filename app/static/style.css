@@ -1,0 +1,17 @@
+#main {
+    max-width: 70%;
+    margin: 0 auto;
+  }
+  #content {
+    display: flex;
+    justify-content: center;
+  }
+  #header h1 {
+    text-align: center;
+    text-shadow: 0 2px 3px grey;
+  }
+  #content img {
+    filter: hue-rotate(168deg);
+    width: 20rem;
+    box-shadow: -11px 12px 6px 0px #3A3A3A;
+  }
